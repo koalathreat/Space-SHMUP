@@ -27,7 +27,4 @@ public class Enemy_1 : Enemy {
         base.Move();
     }
     // Update is called once per frame
-    void Update () {
-		
-	}
 }

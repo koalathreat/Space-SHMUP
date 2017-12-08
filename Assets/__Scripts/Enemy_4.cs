@@ -165,7 +165,5 @@ public class Enemy_4 : Enemy {
         remainingDamageFrames = showDamageForFrames;
     }
     // Update is called once per frame
-    void Update () {
-		
-	}
+
 }
